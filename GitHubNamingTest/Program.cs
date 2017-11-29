@@ -12,4 +12,9 @@ namespace GitHubNamingTest
         {
         }
     }
+
+    class ProgramCreatedFromKrzysztofBranch
+    {
+
+    }
 }
