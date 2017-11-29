@@ -10,6 +10,7 @@ namespace GitHubNamingTest
     {
         static void Main(string[] args)
         {
+            //some changes that will be included later
         }
     }
 }
