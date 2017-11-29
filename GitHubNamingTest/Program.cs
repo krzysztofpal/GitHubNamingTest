@@ -13,4 +13,9 @@ namespace GitHubNamingTest
             //some changes that will be included later
         }
     }
+
+    class ProgramCreatedFromKrzysztofBranch
+    {
+
+    }
 }
